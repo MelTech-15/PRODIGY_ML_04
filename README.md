@@ -8,7 +8,6 @@ This model classifies human hand gestures into 10 distinct geometric categories 
 
 ## 📌 Project Overview
 
-
 The aim of this project is to implement a robust, automated computer vision pipeline that programmatically extracts image data via the Kaggle CLI, preprocesses structural near-infrared images into normalized dimensions, trains a highly accurate 3-layer Deep Convolutional Neural Network (CNN), and provides strict statistical evaluation alongside a random sample visual verification layout.
 
 Unlike traditional machine learning models (like SVMs) that require hand-crafted features or flattened 1D arrays, this network automatically learns spatial hierarchies of features directly from raw 2D pixel grids.
